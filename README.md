@@ -1,7 +1,7 @@
 ## A sample of lottie x bodymovin
 
 #### Demo
-[demo page: dog_coming](https://naosk8.github.io/lottie-bodymovin-sample)
+[demo page: dog_coming](https://naosk8.github.io/lottie-bodymovin-sample/)
 
 #### Preparations
 1. Install After Effects
