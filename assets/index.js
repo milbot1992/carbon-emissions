@@ -3,5 +3,5 @@ const animation = bodymovin.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'assets/animation/dog_coming.json'
+  path: 'assets/animation/data.json'
 });
